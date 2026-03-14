@@ -1,0 +1,17 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Data & Outputs
+data/
+outputs/
+!data/.gitkeep
+!outputs/.gitkeep
+
+# Mac junk
+.DS_Store
